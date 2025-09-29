@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\avt.obj" 
+TO ".\Objects\assitive vision test" 
+PRINT(".\Listings\assitive vision test.m51")
