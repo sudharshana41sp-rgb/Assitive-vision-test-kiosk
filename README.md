@@ -82,7 +82,4 @@ Healthcare-focused embedded application design
 ✨ With this project, I showcased how embedded systems + Python applications can be used in real-world medical assistive technology.
 
 
-
-Do you want me to also write a catchy headline for your GitHub repo (like “Assistive Keystroke Vision | 8051 + Python + PyGame”) so it instantly looks professional?
-
 You’ve hit the Free plan limit for GPT-5.
