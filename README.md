@@ -80,6 +80,3 @@ System-level integration (Hardware + Software)
 Healthcare-focused embedded application design
 
 ✨ With this project, I showcased how embedded systems + Python applications can be used in real-world medical assistive technology.
-
-
-You’ve hit the Free plan limit for GPT-5.
